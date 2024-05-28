@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @starcat4me
-- 👀 I’m interested in cats, trees, space, ai, love, Jesus, and more
-- 🌱 I’m currently learning blockchain and ai stuff
-- 💞️ I’m looking to collaborate on a blockchain and ai project
+- 👀 I support use-cases for crypto and AI that promote the betterment of humanity, anti-censorship, basic human freedoms, Matthew 28:18-19, and more.  
+- 🌱 I’m currently learning new technologies.  My strength is HTML, CSS and JavaScript
+- 💞️ I’m not looking for any new projects right now.  My current employer keeps me busy and I love my work.
 - 📫 How to reach me: contact-starcat at crazedcat.net
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: If at first you don't succeed, skydiving is not for you.
+- ⚡ Fun fact: A cloud can weigh over 1 million pounds. They appear light and fluffy, but they’re made up of water droplets and ice.
 
 <!---
 starcat4me/starcat4me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
