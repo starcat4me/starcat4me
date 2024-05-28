@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @starcat4me
+- 👋 Hi, I’m Starcat - @starcat4me - I liked the Andrew Norton Star Ka'at books when I was younger.
 - 👀 I support use-cases for crypto and AI that promote the betterment of humanity, anti-censorship, basic human freedoms, Matthew 28:18-19, and more.  
 - 🌱 I’m currently learning new technologies.  My strength is HTML, CSS and JavaScript
 - 💞️ I’m not looking for any new projects right now.  My current employer keeps me busy and I love my work.
